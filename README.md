@@ -8,8 +8,8 @@
 </p>
 
 ## About Project
--This project is a Simple Crud using modal with Ajax in Laravel.
--Este projecto é um Crud Simples usando modal sem Ajax em Laravel.
+# This project is a Simple Crud using modal with Ajax in Laravel.
+# Este projecto é um Crud Simples usando modal sem Ajax em Laravel.
 
 
 
